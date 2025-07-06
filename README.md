@@ -29,28 +29,10 @@ I'm a Full-Stack Developer with a strong background in **PHP and Laravel**, lead
 
 Below are some of the projects I’ve worked on. Each project includes a brief description and a link to the live app or code repository:
 
-### 📚 ProctorTest
-A MERN-based CBT system focused on AI cheat detection.  
-> **Stack:** React, Node.js, MongoDB, Express, Laravel API (for monitoring)  
-> **Status:** In progress  
-> **Link:** Coming soon
-
 ### 🛠️ Allsers
 A social service finder platform for connecting artisans with customers.  
 > **Stack:** Laravel, Leaflet.js, MySQL, Bootstrap  
 > **Live:** [https://allsers.com](https://allsers.com)
-
-### 📘 LibraSphere
-A library management system for schools and colleges.  
-> **Stack:** Laravel, Livewire, Tailwind CSS, Filament  
-> **Status:** Development  
-> **Link:** Coming soon
-
-### 🎓 Eduent
-Campus event management system for organizing and discovering student events.  
-> **Stack:** Laravel, TALL stack  
-> **Status:** Ongoing  
-> **Link:** Coming soon
 
 ### 🌐 Hyconcodes
 This very "About Me" site/codebase that showcases who I am and what I do.  
